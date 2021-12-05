@@ -1,4 +1,4 @@
-public class Calculator
+public class MultiplicationOfThreeNum
 {
 	public int mulOfThreeNum(int a,int b,int c)
 	{
@@ -6,7 +6,7 @@ public class Calculator
 	}
 	public static void main(String args[])
 	{
-		Calculator d = new Calculator();
+		MultiplicationOfThreeNum d = new MultiplicationOfThreeNum();
 		System.out.println(d.mulOfThreeNum(10,20,30));
 	}
 }
